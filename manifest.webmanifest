@@ -1,0 +1,17 @@
+{
+  "name": "まいにち筋トレ - MOVE EVERY DAY",
+  "short_name": "まいにち筋トレ",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0d1319",
+  "theme_color": "#0d1319",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
